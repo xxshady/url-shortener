@@ -6,7 +6,7 @@
             "docs": "https://docs.altv.mp/js/index.html",
             "module": "https://github.com/altmp/altv-js-module"
         },
-        "csharp": {
+        "cs": {
             "docs": "https://docs.altv.mp/cs/index.html",
             "module": "https://github.com/FabianTerhorst/coreclr-module"
         },
