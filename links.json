@@ -1,6 +1,19 @@
 {
     "links": {
         "index": "https://altv.mp",
-        "trouble": "https://docs.altv.mp/articles/troubleshooting/client.html"
+        "trouble": "https://docs.altv.mp/articles/troubleshooting/client.html",
+        "js": {
+            "docs": "https://docs.altv.mp/js/index.html",
+            "module": "https://github.com/altmp/altv-js-module"
+        },
+        "cs": {
+            "docs": "https://docs.altv.mp/cs/index.html",
+            "module": "https://github.com/FabianTerhorst/coreclr-module"
+        },
+        "sdk": {
+            "docs": "https://docs.altv.mp/sdk/index.html",
+            "module": "https://github.com/altmp/cpp-sdk"
+        },
+        "joaat": "https://docs.altv.mp/gta/articles/references/joaat.html"
     }
 }
