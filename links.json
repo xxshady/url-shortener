@@ -14,6 +14,7 @@
             "docs": "https://docs.altv.mp/sdk/index.html",
             "module": "https://github.com/altmp/cpp-sdk"
         },
-        "joaat": "https://docs.altv.mp/gta/articles/references/joaat.html"
+        "joaat": "https://docs.altv.mp/gta/articles/references/joaat.html",
+        "server-cli": "https://docs.altv.mp/articles/commandlineargs.html#server-launch-options"
     }
 }
