@@ -2,7 +2,7 @@
     "links": {
         "index": "https://altv.mp",
         "trouble": {
-            "index": "https://docs.altv.mp/articles/troubleshooting/client.html",
+            "$": "https://docs.altv.mp/articles/troubleshooting/client.html",
             "integrity-check": "https://docs.altv.mp/articles/troubleshooting/client.html#integrity-check-of-resource-failed"
         },
         "js": {
