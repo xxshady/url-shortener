@@ -1,7 +1,10 @@
 {
     "links": {
         "index": "https://altv.mp",
-        "trouble": "https://docs.altv.mp/articles/troubleshooting/client.html",
+        "trouble": {
+            "index": "https://docs.altv.mp/articles/troubleshooting/client.html",
+            "integrity-check": "https://docs.altv.mp/articles/troubleshooting/client.html#integrity-check-of-resource-failed"
+        },
         "js": {
             "docs": "https://docs.altv.mp/js/index.html",
             "module": "https://github.com/altmp/altv-js-module"
