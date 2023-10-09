@@ -17,6 +17,10 @@
         "joaat": "https://docs.altv.mp/gta/articles/references/joaat.html",
         "server-cli": "https://docs.altv.mp/articles/commandlineargs.html#server-launch-options",
         "patreon": "https://patreon.com/altVMP",
-        "dlc-list": "https://docs.altv.mp/gta/articles/references/dlcs.html"
+        "dlc-list": "https://docs.altv.mp/gta/articles/references/dlcs.html",
+        "config": {
+            "client": "https://docs.altv.mp/articles/configs/client.html",
+            "server": "https://docs.altv.mp/articles/configs/server.html"
+        }
     }
 }
