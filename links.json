@@ -21,6 +21,7 @@
         "config": {
             "client": "https://docs.altv.mp/articles/configs/client.html",
             "server": "https://docs.altv.mp/articles/configs/server.html"
-        }
+        },
+        "external-voice": "https://docs.altv.mp/articles/external_voice_server.html"
     }
 }
