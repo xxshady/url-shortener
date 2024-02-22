@@ -7,7 +7,7 @@
             "module": "https://github.com/altmp/altv-js-module"
         },
         "jsv2": {
-            "compat": "https://github.com/altmp/altv-js-module-v2/tree/dev?tab=readme-ov-file#v1-compatibility",
+            "compat": "https://github.com/altmp/altv-js-module-v2/tree/dev?tab=readme-ov-file#v1-compatibility"
         },
         "cs": {
             "docs": "https://docs.altv.mp/cs/index.html",
